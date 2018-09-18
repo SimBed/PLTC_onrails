@@ -2,6 +2,6 @@ class StaticPagesController < ApplicationController
   def home
   end
 
-  def aerial
+  def tennis
   end
 end
